@@ -1,0 +1,23 @@
+{
+  "item.fabric_project.sun": "Солнце",
+
+  "block.fabric_project.magma_stairs": "§6Магмовые ступеньки",
+
+  "block.fabric_project.magma_slab": "§7Магмовые плиты",
+
+  "block.fabric_project.magma": "§aМагма",
+
+  "block.fabric_project.log_redstone_tree": "§4Бревно редстоун дерева",
+
+  "block.fabric_project.wood_redstone_tree": "§2Древесина редстоун дерева",
+
+  "block.fabric_project.redstone_leaves": "§eРедстоун листва",
+
+  "block.fabric_project.redstone_sapling": "§4Редстоун саженец",
+
+  "itemGroup.fabric_project.sun": "§eСолнце",
+
+  "tooltip.fabric_project.sun": "§aНажмите §eshift, §aчтобы узнать подробнее",
+
+  "tooltip.fabric_project.sun_shift": "§cДанное солнце можно есть и оно является топливом!"
+}

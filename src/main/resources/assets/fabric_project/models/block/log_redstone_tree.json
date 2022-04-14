@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "fabric_project:block/redstone_tree_up",
+    "side": "fabric_project:block/redstone_tree"
+  }
+}

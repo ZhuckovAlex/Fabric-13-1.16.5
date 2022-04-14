@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "fabric_project",
+  "version": "1.0.0-1.16.5 Fabric",
+
+  "name": "Project fabric",
+  "description": "Добро пожаловать в фабрик мод!",
+  "authors": [
+    "Майнкрафт борщ"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric_project"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/fabric_project/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.borch.project.ProjectMod"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

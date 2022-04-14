@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fabric_project:block/wood_redstone_tree"
+    }
+  }
+}

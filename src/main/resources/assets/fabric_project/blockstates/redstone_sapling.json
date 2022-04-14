@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fabric_project:block/redstone_sapling"
+    }
+  }
+}

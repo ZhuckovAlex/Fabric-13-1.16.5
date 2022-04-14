@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fabric_project:block/magma_slab"
+    },
+    "type=double": {
+      "model": "fabric_project:block/magma"
+    },
+    "type=top": {
+      "model": "fabric_project:block/magma_slab_top"
+    }
+  }
+}

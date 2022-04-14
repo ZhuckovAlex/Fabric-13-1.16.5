@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "fabric_project:log_redstone_tree"
+  },
+  "result": "minecraft:redstone",
+  "experience": 2,
+  "cookingtime": 50
+}

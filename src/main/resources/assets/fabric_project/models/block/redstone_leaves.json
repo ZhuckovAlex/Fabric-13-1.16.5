@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "fabric_project:block/redstone_leaves"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "fabric_project:block/log_redstone_tree",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "fabric_project:block/log_redstone_tree"
+    },
+    "axis=z": {
+      "model": "fabric_project:block/log_redstone_tree",
+      "x": 90
+    }
+  }
+}

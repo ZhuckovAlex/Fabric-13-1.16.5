@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "fabric_project:log_redstone_tree",
+    "fabric_project:wood_redstone_tree"
+  ]
+}

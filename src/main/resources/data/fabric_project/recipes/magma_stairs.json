@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "fabric_project:magma"
+    }
+  },
+  "result": {
+    "item": "fabric_project:magma_stairs",
+    "count": 4
+  }
+}

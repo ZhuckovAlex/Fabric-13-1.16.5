@@ -1,0 +1,23 @@
+{
+  "item.fabric_project.sun": "Sun",
+
+  "block.fabric_project.magma_stairs": "§6Magma stairs",
+
+  "block.fabric_project.magma_slab": "§7Magma slab",
+
+  "block.fabric_project.magma": "Magma",
+
+  "block.fabric_project.log_redstone_tree": "§4Log redstone tree",
+
+  "block.fabric_project.redstone_leaves": "§4Redstone leaves",
+
+  "block.fabric_project.redstone_sapling": "§4Redstone sapling",
+
+  "block.fabric_project.wood_redstone_tree": "§2Wood redstone tree",
+
+  "itemGroup.fabric_project.sun": "Sun",
+
+  "tooltip.fabric_project.sun": "§aPress §eshift §ato learn more",
+
+  "tooltip.fabric_project.sun_shift": "§cThis sun can be eaten and it is fuel!"
+}

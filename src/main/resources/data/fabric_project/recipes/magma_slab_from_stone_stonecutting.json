@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "fabric_project:magma"
+  },
+  "result": "fabric_project:magma_slab",
+  "count": 2
+}
